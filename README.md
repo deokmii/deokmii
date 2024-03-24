@@ -1,4 +1,7 @@
 ### Hello there 👋
+
+Dynamic Computer Science student at New York University, poised to graduate in Spring 2024 with a strong foundation in both theoretical and applied aspects of technology. Versatile in a spectrum of programming languages, I am driven by the challenge of solving complex problems and contributing to meaningful technological advancements.
+
 ## Skills and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -9,17 +12,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!--
-**deokmii/deokmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Language skills
+- Korean
+- English 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: sh7218@nyu.edu
+- LinkedIn: https://www.linkedin.com/in/subi-hwang-2b949128b/ 
